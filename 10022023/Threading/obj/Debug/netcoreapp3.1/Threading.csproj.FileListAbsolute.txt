@@ -1,0 +1,14 @@
+C:\Users\elchin\source\repos\10022023\Threading\bin\Debug\netcoreapp3.1\Threading.exe
+C:\Users\elchin\source\repos\10022023\Threading\bin\Debug\netcoreapp3.1\Threading.deps.json
+C:\Users\elchin\source\repos\10022023\Threading\bin\Debug\netcoreapp3.1\Threading.runtimeconfig.json
+C:\Users\elchin\source\repos\10022023\Threading\bin\Debug\netcoreapp3.1\Threading.runtimeconfig.dev.json
+C:\Users\elchin\source\repos\10022023\Threading\bin\Debug\netcoreapp3.1\Threading.dll
+C:\Users\elchin\source\repos\10022023\Threading\bin\Debug\netcoreapp3.1\Threading.pdb
+C:\Users\elchin\source\repos\10022023\Threading\obj\Debug\netcoreapp3.1\Threading.csproj.AssemblyReference.cache
+C:\Users\elchin\source\repos\10022023\Threading\obj\Debug\netcoreapp3.1\Threading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elchin\source\repos\10022023\Threading\obj\Debug\netcoreapp3.1\Threading.AssemblyInfoInputs.cache
+C:\Users\elchin\source\repos\10022023\Threading\obj\Debug\netcoreapp3.1\Threading.AssemblyInfo.cs
+C:\Users\elchin\source\repos\10022023\Threading\obj\Debug\netcoreapp3.1\Threading.csproj.CoreCompileInputs.cache
+C:\Users\elchin\source\repos\10022023\Threading\obj\Debug\netcoreapp3.1\Threading.dll
+C:\Users\elchin\source\repos\10022023\Threading\obj\Debug\netcoreapp3.1\Threading.pdb
+C:\Users\elchin\source\repos\10022023\Threading\obj\Debug\netcoreapp3.1\Threading.genruntimeconfig.cache

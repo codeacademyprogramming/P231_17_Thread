@@ -1,0 +1,15 @@
+C:\Users\elchin\source\repos\10022023\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+C:\Users\elchin\source\repos\10022023\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+C:\Users\elchin\source\repos\10022023\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+C:\Users\elchin\source\repos\10022023\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+C:\Users\elchin\source\repos\10022023\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\elchin\source\repos\10022023\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\elchin\source\repos\10022023\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elchin\source\repos\10022023\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\elchin\source\repos\10022023\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\elchin\source\repos\10022023\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\elchin\source\repos\10022023\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+C:\Users\elchin\source\repos\10022023\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+C:\Users\elchin\source\repos\10022023\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\elchin\source\repos\10022023\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\elchin\source\repos\10022023\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
